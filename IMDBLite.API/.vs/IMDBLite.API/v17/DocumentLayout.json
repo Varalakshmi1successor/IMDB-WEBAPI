@@ -1,0 +1,1405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\controllers\\actorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\actorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\actorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\request\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\request\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\response\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\response\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\db\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\db\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\interfaces\\iauthvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\interfaces\\iauthvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\imdblite.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\imdblite.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\mappings\\authmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\mappings\\authmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\response\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\response\\signupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\response\\signupresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\request\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\request\\signuprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\db\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\db\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\middlewares\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\middlewares\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\settings\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\settings\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\converters\\genderenumconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\converters\\genderenumconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\reviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\reviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\mappings\\actormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\mappings\\actormapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\basevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\basevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\db\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\db\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\actorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\actorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\supabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\movievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\movievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\mappings\\moviemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\mappings\\moviemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\db\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\db\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\db\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\db\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\response\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\response\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\request\\movierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\request\\movierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\db\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\db\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\db\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\db\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\request\\genrerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\request\\genrerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\converters\\dateonlytypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\converters\\dateonlytypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\producervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\producervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\genrevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\genrevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\interfaces\\iactorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\interfaces\\iactorvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\interfaces\\ireviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\interfaces\\ireviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\interfaces\\iproducervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\interfaces\\iproducervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\interfaces\\imovievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\interfaces\\imovievalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\validations\\interfaces\\igenrevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\validations\\interfaces\\igenrevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\mappings\\producermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\mappings\\producermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\producerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\producerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\producerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\interfaces\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\interfaces\\iactorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\interfaces\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\interfaces\\iactorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\imdblite.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\imdblite.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\settings\\supabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\settings\\supabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\response\\reviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\response\\reviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\response\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\response\\messageresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\response\\genreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\response\\genreresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\models\\dtos\\request\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\models\\dtos\\request\\reviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\mappings\\reviewmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\mappings\\reviewmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\mappings\\genremapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\mappings\\genremapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\interfaces\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\interfaces\\iproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\services\\interfaces\\isupabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\services\\interfaces\\isupabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\interfaces\\iproducerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\interfaces\\iproducerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\repository\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\repository\\interfaces\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|c:\\users\\varalakshmi\\bootcamp\\imdblite.api\\imdblite.api\\imdblite.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0EF278F1-38ED-4685-9F1C-5756BFD1733F}|IMDBLite.API\\IMDBLite.API.csproj|solutionrelative:imdblite.api\\imdblite.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Response\\PersonResponse.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\PersonResponse.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Response\\PersonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:18:13.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAwwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:35:57.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Startup.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Startup.cs",
+              "RelativeToolTip": "IMDBLite.API\\Startup.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:56:45.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\ActorRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\ActorRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\ActorRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\ActorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T06:17:34.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActorService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\ActorService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\ActorService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\ActorService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\ActorService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:47:22.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Program.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Program.cs",
+              "RelativeToolTip": "IMDBLite.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:40:51.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\appsettings.json",
+              "RelativeDocumentMoniker": "IMDBLite.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\appsettings.json",
+              "RelativeToolTip": "IMDBLite.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-30T12:30:59.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Exceptions\\CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "IMDBLite.API\\Exceptions\\CustomExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:08:33.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\AuthValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\AuthValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\AuthValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\AuthValidator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:10:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\ActorsController.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Controllers\\ActorsController.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\ActorsController.cs",
+              "RelativeToolTip": "IMDBLite.API\\Controllers\\ActorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:11:09.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\PersonRequest.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Request\\PersonRequest.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\PersonRequest.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Request\\PersonRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:17:28.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Person.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DB\\Person.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Person.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DB\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T02:59:45.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IAuthValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\Interfaces\\IAuthValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IAuthValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\Interfaces\\IAuthValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:54:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\BaseRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T07:53:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:10:32.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:02:48.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMDBLite.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\IMDBLite.API.csproj",
+              "RelativeDocumentMoniker": "IMDBLite.API\\IMDBLite.API.csproj",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\IMDBLite.API.csproj",
+              "RelativeToolTip": "IMDBLite.API\\IMDBLite.API.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-19T02:59:05.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:31:19.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:17:25.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\AuthMapping.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Mappings\\AuthMapping.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\AuthMapping.cs",
+              "RelativeToolTip": "IMDBLite.API\\Mappings\\AuthMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:57:11.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Response\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\LoginResponse.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Response\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:41:59.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SignupResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\SignupResponse.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Response\\SignupResponse.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\SignupResponse.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Response\\SignupResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:43:20.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Request\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\LoginRequest.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Request\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:41:17.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SignupRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\SignupRequest.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Request\\SignupRequest.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\SignupRequest.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Request\\SignupRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:38:30.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\User.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DB\\User.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\User.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DB\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T04:18:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IMDBLite.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:36:30.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Middlewares\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Middlewares\\ExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Middlewares\\ExceptionHandling.cs",
+              "RelativeToolTip": "IMDBLite.API\\Middlewares\\ExceptionHandling.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:35:18.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Settings\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Settings\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Settings\\ConnectionString.cs",
+              "RelativeToolTip": "IMDBLite.API\\Settings\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T02:31:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenderEnumConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Converters\\GenderEnumConverter.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Converters\\GenderEnumConverter.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Converters\\GenderEnumConverter.cs",
+              "RelativeToolTip": "IMDBLite.API\\Converters\\GenderEnumConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:26:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "IMDBLite.API\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:04:25.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReviewValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\ReviewValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\ReviewValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\ReviewValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\ReviewValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:46:28.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ActorMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\ActorMapping.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Mappings\\ActorMapping.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\ActorMapping.cs",
+              "RelativeToolTip": "IMDBLite.API\\Mappings\\ActorMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:19:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\BaseValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\BaseValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\BaseValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\BaseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:41:02.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Genre.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DB\\Genre.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Genre.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DB\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T05:41:22.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\MovieService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\MovieService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:56:17.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ActorValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\ActorValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\ActorValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\ActorValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\ActorValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:41:55.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SupabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\SupabaseService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\SupabaseService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\SupabaseService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\SupabaseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:06:42.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MovieValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\MovieValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\MovieValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\MovieValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\MovieValidator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T16:52:55.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MovieMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\MovieMapping.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Mappings\\MovieMapping.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\MovieMapping.cs",
+              "RelativeToolTip": "IMDBLite.API\\Mappings\\MovieMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:36:05.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Actor.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DB\\Actor.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Actor.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DB\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:59:11.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Movie.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DB\\Movie.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Movie.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DB\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:23:34.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MovieResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\MovieResponse.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Response\\MovieResponse.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\MovieResponse.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Response\\MovieResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:45:21.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "MovieRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\MovieRequest.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Request\\MovieRequest.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\MovieRequest.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Request\\MovieRequest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T13:45:04.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Review.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DB\\Review.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Review.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DB\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:30:57.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Producer.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DB\\Producer.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DB\\Producer.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DB\\Producer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:08:37.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GenreRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\GenreRequest.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Request\\GenreRequest.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\GenreRequest.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Request\\GenreRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:53:09.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DateOnlyTypeHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Converters\\DateOnlyTypeHandler.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Converters\\DateOnlyTypeHandler.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Converters\\DateOnlyTypeHandler.cs",
+              "RelativeToolTip": "IMDBLite.API\\Converters\\DateOnlyTypeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:17:56.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "IMDBLite.API\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:02:17.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ProducerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\ProducerValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\ProducerValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\ProducerValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\ProducerValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T05:44:09.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GenreValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\GenreValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\GenreValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\GenreValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\GenreValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:12:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IActorValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IActorValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\Interfaces\\IActorValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IActorValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\Interfaces\\IActorValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:53:45.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IReviewValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IReviewValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\Interfaces\\IReviewValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IReviewValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\Interfaces\\IReviewValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:55:54.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IProducerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IProducerValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\Interfaces\\IProducerValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IProducerValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\Interfaces\\IProducerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:55:32.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "IMovieValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IMovieValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\Interfaces\\IMovieValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IMovieValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\Interfaces\\IMovieValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:55:11.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IGenreValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IGenreValidator.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Validations\\Interfaces\\IGenreValidator.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Validations\\Interfaces\\IGenreValidator.cs",
+              "RelativeToolTip": "IMDBLite.API\\Validations\\Interfaces\\IGenreValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:54:46.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\GenreService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:09:12.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProducerMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\ProducerMapping.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Mappings\\ProducerMapping.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\ProducerMapping.cs",
+              "RelativeToolTip": "IMDBLite.API\\Mappings\\ProducerMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:12:28.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProducerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\ProducerRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\ProducerRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\ProducerRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\ProducerRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:35:14.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\ProducerService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\ProducerService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\ProducerService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\ProducerService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:39:03.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\ReviewService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\ReviewService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:42:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\Interfaces\\IMovieService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IMovieService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\Interfaces\\IMovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:49:10.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\GenreRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:01:41.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IActorService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IActorService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\Interfaces\\IActorService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IActorService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\Interfaces\\IActorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:54:44.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\Interfaces\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IGenreService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\Interfaces\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:03:29.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IActorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IActorRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\Interfaces\\IActorRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IActorRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\Interfaces\\IActorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T03:56:06.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IMDBLite.API.http",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\IMDBLite.API.http",
+              "RelativeDocumentMoniker": "IMDBLite.API\\IMDBLite.API.http",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\IMDBLite.API.http",
+              "RelativeToolTip": "IMDBLite.API\\IMDBLite.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-24T09:28:24.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SupabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Settings\\SupabaseSettings.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Settings\\SupabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Settings\\SupabaseSettings.cs",
+              "RelativeToolTip": "IMDBLite.API\\Settings\\SupabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:09:00.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\ReviewRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\ReviewRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA2wDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:40:03.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ReviewResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\ReviewResponse.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Response\\ReviewResponse.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\ReviewResponse.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Response\\ReviewResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:35:10.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MessageResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\MessageResponse.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Response\\MessageResponse.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\MessageResponse.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Response\\MessageResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T09:42:24.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GenreResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\GenreResponse.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Response\\GenreResponse.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Response\\GenreResponse.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Response\\GenreResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:55:21.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ReviewRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\ReviewRequest.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Models\\DTOs\\Request\\ReviewRequest.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Models\\DTOs\\Request\\ReviewRequest.cs",
+              "RelativeToolTip": "IMDBLite.API\\Models\\DTOs\\Request\\ReviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:32:07.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ReviewMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\ReviewMapping.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Mappings\\ReviewMapping.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\ReviewMapping.cs",
+              "RelativeToolTip": "IMDBLite.API\\Mappings\\ReviewMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:37:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GenreMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\GenreMapping.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Mappings\\GenreMapping.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Mappings\\GenreMapping.cs",
+              "RelativeToolTip": "IMDBLite.API\\Mappings\\GenreMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:56:37.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ProducersController.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\ProducersController.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Controllers\\ProducersController.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\ProducersController.cs",
+              "RelativeToolTip": "IMDBLite.API\\Controllers\\ProducersController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:01:27.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Controllers\\GenresController.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "IMDBLite.API\\Controllers\\GenresController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:24:27.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IMDBLite.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T04:51:22.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IProducerService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IProducerService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\Interfaces\\IProducerService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IProducerService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\Interfaces\\IProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:37:17.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IMDBLite.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\appsettings.Development.json",
+              "RelativeToolTip": "IMDBLite.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-18T19:07:25.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\Interfaces\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\Interfaces\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:41:15.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ISupabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\ISupabaseService.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Services\\Interfaces\\ISupabaseService.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Services\\Interfaces\\ISupabaseService.cs",
+              "RelativeToolTip": "IMDBLite.API\\Services\\Interfaces\\ISupabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T13:07:32.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:38:58.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IProducerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IProducerRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\Interfaces\\IProducerRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IProducerRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\Interfaces\\IProducerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:33:20.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\Interfaces\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IMovieRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\Interfaces\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T15:40:19.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "IMDBLite.API\\Repository\\Interfaces\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\Repository\\Interfaces\\IGenreRepository.cs",
+              "RelativeToolTip": "IMDBLite.API\\Repository\\Interfaces\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T18:58:25.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IMDBLite.API",
+              "DocumentMoniker": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\IMDBLite.API.csproj",
+              "RelativeDocumentMoniker": "IMDBLite.API\\IMDBLite.API.csproj",
+              "ToolTip": "C:\\Users\\Varalakshmi\\bootcamp\\IMDBLite.API\\IMDBLite.API\\IMDBLite.API.csproj",
+              "RelativeToolTip": "IMDBLite.API\\IMDBLite.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T10:52:03.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
