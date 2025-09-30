@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Movie Details</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="css/movie-details.css" />
+</head>
+<body>
+  <div class="container">
+    <a href="index.html" class="back-btn"><span class="material-icons">arrow_back</span> Back to Movies</a>
+    <div class="row align-items-center">
+      <div class="col-md-5 mb-4 mb-md-0">
+        <img id="moviePoster" src="" alt="Movie Poster" class="poster img-fluid" />
+      </div>
+      <div class="col-md-7">
+        <h1 id="movieTitle" class="movie-title">Loading...</h1>
+        <div class="info-tag" id="movieGenre">Genre: Action, Sci-Fi</div>
+        <p id="movieDescription" class="movie-description">Loading description...</p>
+        <button class="btn btn-custom">
+          <span class="material-icons">play_arrow</span> Watch Now
+        </button>
+        <button class="btn btn-custom">
+          <span class="material-icons">file_download</span> Download
+        </button>
+      </div>
+    </div>
+  </div>
+  <script src="js/movies-data.js"></script>
+<script>
+  const urlParams = new URLSearchParams(window.location.search);
+  const movieId = urlParams.get('id');
+  const movie = movies.find(m => m.id === movieId);
+
+  if (movie) {
+    document.getElementById('movieTitle').textContent = movie.title;
+    document.getElementById('movieDescription').textContent = movie.description;
+    document.getElementById('moviePoster').src = movie.image;
+    document.getElementById('movieGenre').textContent = `Genre: ${movie.genre}`;
+  } else {
+    document.getElementById('movieTitle').textContent = "Movie Not Found";
+    document.getElementById('movieDescription').textContent = "Try selecting a movie again.";
+    document.getElementById('moviePoster').style.display = 'none';
+    document.getElementById('movieGenre').textContent = "";
+  }
+</script>
+</body>
+</html>

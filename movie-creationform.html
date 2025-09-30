@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Create Movie</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="css/formstyles.css" />
+</head>
+<body>
+
+<div class="container mt-5 form-wrapper">
+  <h2 class="mb-4">Create New Movie</h2>
+  <form class="needs-validation" novalidate>
+    <div class="form-group">
+      <label for="movieName">Movie Name</label>
+      <input type="text" class="form-control" id="movieName" placeholder="Enter movie name" required>
+      <div class="invalid-feedback">Movie name is required.</div>
+    </div>
+
+    <div class="form-group">
+      <label for="releaseDate">Year of Release</label>
+      <input type="date" class="form-control" id="releaseDate" required>
+      <div class="invalid-feedback">Please select a release date.</div>
+    </div>
+
+    <div class="form-group">
+      <label for="genre">Genre</label>
+      <select class="form-control" id="genre" required>
+        <option value="">Choose Genre</option>
+        <option>Action</option>
+        <option>Drama</option>
+        <option>Comedy</option>
+        <option>Horror</option>
+      </select>
+      <div class="invalid-feedback">Please select a genre.</div>
+    </div>
+
+    <div class="form-group">
+      <label for="actorDropdown">Actors</label>
+      <div class="select-with-button">
+        <div class="dropdown w-100">
+          <input type="text" class="form-control" id="actorDropdown" readonly placeholder="Select Actors" data-toggle="dropdown" aria-haspopup="true" required>
+          <div class="dropdown-menu w-100 p-2" id="actorDropdownMenu">
+            <div class="form-check">
+              <input class="form-check-input actor-option" type="checkbox" value="Robert Downey Jr." id="actor1">
+              <label class="form-check-label" for="actor1">Robert Downey Jr.</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input actor-option" type="checkbox" value="Scarlett Johansson" id="actor2">
+              <label class="form-check-label" for="actor2">Scarlett Johansson</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input actor-option" type="checkbox" value="Chris Evans" id="actor3">
+              <label class="form-check-label" for="actor3">Chris Evans</label>
+            </div>
+          </div>
+        </div>
+        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#addActorModal">Add Actor</button>
+      </div>
+      <div class="invalid-feedback">Please select at least one actor.</div>
+    </div>
+
+    <div class="form-group">
+      <label for="producer">Producer</label>
+      <div class="select-with-button">
+        <select class="form-control" id="producer" required>
+          <option value="">Select Producer</option>
+          <option>Kevin Feige</option>
+          <option>Christopher Nolan</option>
+          <option>Steven Spielberg</option>
+        </select>
+        <button type="button" class="btn btn-outline-primary btn-sm" data-toggle="modal" data-target="#addProducerModal">Add Producer</button>
+      </div>
+      <div class="invalid-feedback">Please select a producer.</div>
+    </div>
+
+    <div class="form-group">
+      <label for="plot">Plot</label>
+      <textarea class="form-control" id="plot" rows="4" required placeholder="Enter plot..."></textarea>
+      <div class="invalid-feedback">Plot is required.</div>
+    </div>
+
+    <div class="form-group">
+      <label for="poster">Movie Poster</label>
+      <div class="custom-file-dark">
+        <label class="browse-button" for="poster">Browse</label>
+        <span class="file-name" id="fileName">No file chosen</span>
+        <input type="file" class="custom-file-input-dark" id="poster" required>
+      </div>
+      <div class="invalid-feedback mt-1" id="posterError">Please upload a poster image.</div>
+    </div>
+
+    <button type="submit" class="btn btn-success">Create Movie</button>
+  </form>
+</div>
+
+<!-- Actor Modal -->
+<div class="modal fade" id="addActorModal" tabindex="-1" role="dialog" aria-labelledby="addActorModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <form class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="addActorModalLabel">Add New Actor</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span>&times;</span></button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="actorName">Actor Name</label>
+          <input type="text" class="form-control" id="actorName" required>
+        </div>
+        <div class="form-group">
+          <label for="actorDOB">Date of Birth</label>
+          <input type="date" class="form-control" id="actorDOB" required>
+        </div>
+        <div class="form-group">
+          <label for="actorBio">Biography</label>
+          <textarea class="form-control" id="actorBio" rows="3" required></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Save Actor</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- Producer Modal -->
+<div class="modal fade" id="addProducerModal" tabindex="-1" role="dialog" aria-labelledby="addProducerModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <form class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="addProducerModalLabel">Add New Producer</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span>&times;</span></button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group">
+          <label for="producerName">Producer Name</label>
+          <input type="text" class="form-control" id="producerName" required>
+        </div>
+        <div class="form-group">
+          <label for="producerDOB">Date of Birth</label>
+          <input type="date" class="form-control" id="producerDOB" required>
+        </div>
+        <div class="form-group">
+          <label for="producerBio">Biography</label>
+          <textarea class="form-control" id="producerBio" rows="3" required></textarea>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="submit" class="btn btn-primary">Save Producer</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<!-- Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/moviecreationscript.js"></script>
+</body>
+</html>

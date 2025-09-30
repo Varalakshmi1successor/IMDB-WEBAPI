@@ -1,0 +1,87 @@
+body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #121212;
+      color: white;
+      margin: 0;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      background-color: #1e1e1e;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    }
+
+    .poster {
+      width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.6);
+    }
+
+    .movie-title {
+      font-size: 2.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .movie-description {
+      font-size: 1.2rem;
+      color: #cccccc;
+      margin-bottom: 1.5rem;
+    }
+
+    .btn-custom {
+      background-color: #ff4c29;
+      color: white;
+      border: none;
+      margin-right: 1rem;
+      margin-top: 0.5rem;
+      display: inline-flex;
+      align-items: center;
+      font-weight: 500;
+    }
+
+    .btn-custom:hover {
+      background-color: #e03d1d;
+    }
+
+    .btn-custom .material-icons {
+      margin-right: 8px;
+    }
+
+    .info-tag {
+      font-size: 0.9rem;
+      color: #aaa;
+      margin-bottom: 1rem;
+      font-style: italic;
+    }
+
+    .back-btn {
+      color: #aaa;
+      margin-bottom: 1.5rem;
+      display: inline-block;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+
+    .back-btn:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      .movie-title {
+        font-size: 2rem;
+      }
+
+      .movie-description {
+        font-size: 1rem;
+      }
+
+      .btn-custom {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+        justify-content: center;
+      }
+    }

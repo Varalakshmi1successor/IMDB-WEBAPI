@@ -1,0 +1,214 @@
+    body {
+      background-color: #000;
+      color: #eaeaea;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h2 {
+      color: #0a84ff;
+      font-weight: 600;
+    }
+
+    .form-wrapper {
+      background-color: #1e1e1e;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(10, 132, 255, 0.1);
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    .form-control,
+    .custom-file-input,
+    .dropdown-menu,
+    select.form-control {
+      background-color: #2a2a2a;
+      color: #ffffff;
+      border: 1px solid #3c3c3c;
+      border-radius: 8px;
+      padding: 10px;
+      box-shadow: none;
+    }
+
+    .form-control:focus,
+    select.form-control:focus {
+      background-color: #2a2a2a;
+      color: #fff;
+      border-color: #0a84ff;
+      box-shadow: 0 0 0 0.2rem rgba(10, 132, 255, 0.4);
+    }
+
+    label {
+      color: #ffffff;
+      font-weight: 500;
+    }
+
+    .btn {
+      border-radius: 8px;
+      font-weight: 500;
+    }
+
+    .btn-success {
+      background-color: #ff9500;
+      border-color: #ff9500;
+      color: #000;
+    }
+
+    .btn-outline-primary {
+      color: #0a84ff;
+      border-color: #fff;
+    }
+
+    .btn-outline-primary:hover {
+      background-color: #0a84ff;
+      color: #fff;
+    }
+
+    .modal-content {
+      background-color: #1e1e1e;
+      color: #eaeaea;
+      border-radius: 12px;
+      border: 1px solid #3a3a3c;
+    }
+
+    .modal-header,
+    .modal-footer {
+      border-color: #3a3a3c;
+    }
+
+    .modal-header .close {
+      color: #eaeaea;
+      opacity: 1;
+    }
+
+    .modal-body input,
+    .modal-body textarea {
+      background-color: #2a2a2a;
+      color: #ffffff;
+      border: 1px solid #3c3c3c;
+      border-radius: 8px;
+    }
+
+    .modal-body input:focus,
+    .modal-body textarea:focus {
+      background-color: #2a2a2a;
+      color: #fff;
+      border-color: #0a84ff;
+      box-shadow: 0 0 0 0.2rem rgba(10, 132, 255, 0.4);
+    }
+
+    .invalid-feedback {
+      color: #ff453a;
+    }
+
+    .select-with-button {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .custom-file-dark {
+      display: flex;
+      align-items: center;
+      background-color: #2a2a2a;
+      border: 1px solid #3c3c3c;
+      border-radius: 8px;
+      padding: 0.5rem 1rem;
+      color: #eaeaea;
+      position: relative;
+      overflow: hidden;
+      height: 3rem;
+    }
+
+    .custom-file-input-dark {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      cursor: pointer;
+      z-index: 3;
+    }
+
+    .browse-button {
+      background-color: #333;
+      border: none;
+      padding: 1rem 1rem;
+      border-radius: 5px;
+      color: #0a84ff;
+      font-weight: 500;
+      z-index: 1;
+      flex-shrink: 0;
+      margin-right: 10px;
+    }
+
+    .browse-button:hover {
+      background-color: #0a84ff;
+      color: #fff;
+    }
+
+    .file-name {
+      flex-grow: 1;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: #eaeaea;
+      font-size: 0.95rem;
+      padding: 0 1rem;
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+
+    select.form-control {
+      height: auto;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+      line-height: 1.5;
+    }
+
+    .container {
+      margin-top: 50px;
+    }
+
+    #actorDropdown {
+      background-color: #2a2a2a;
+      color: #ffffff;
+      border: 1px solid #3c3c3c;
+      border-radius: 8px;
+      padding: 10px;
+    }
+
+    #actorDropdown:focus {
+      border-color: #0a84ff;
+      box-shadow: 0 0 0 0.2rem rgba(10, 132, 255, 0.4);
+    }
+
+    #actorDropdownMenu {
+      background-color: #2a2a2a;
+      border: 1px solid #3c3c3c;
+      border-radius: 8px;
+      color: #ffffff;
+      max-height: 200px;
+      overflow-y: auto;
+    }
+
+    #actorDropdownMenu .form-check-input {
+      background-color: #1e1e1e;
+      border-color: #5a5a5a;
+    }
+
+    #actorDropdownMenu .form-check-label {
+      color: #ffffff;
+    }
+    #actorDropdown::placeholder {
+  color: #fff;
+  font-weight: 400;
+  opacity: 1;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  filter: invert(1); /* Invert black to white */
+  cursor: pointer;
+}
