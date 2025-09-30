@@ -1,6 +1,6 @@
 Movie Management API
 
-A robust ASP.NET Core Web API project designed to manage movies, actors, producers, genres, and reviews. The project implements a layered architecture with **Service** and **Repository** layers, follows best practices for validation, authentication, and database interaction, and uses MSSQL with stored procedures and Dapper for data access.
+A robust ASP.NET Core Web API project designed to manage movies, actors, producers, genres, and reviews. The project implements a layered architecture with **Service** and **Repository** layers, follows best practices for validation, authentication, and database interaction, and uses MSSQL with stored procedures and Dapper for data access.I am developing the frontend:https://dreamy-cuchufli-687743.netlify.app/
 
 ---
 
